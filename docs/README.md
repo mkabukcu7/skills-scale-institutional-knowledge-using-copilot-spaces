@@ -29,6 +29,14 @@ Explore our comprehensive project management process documentation:
 - [OctoAcme Release and Deployment](octoacme-release-and-deployment.md) - Standardized release process and deployment procedures
 - [OctoAcme Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Capturing learnings and driving improvements
 
+## Templates and Checklists
+
+Practical templates and checklists to support project delivery and team management:
+
+- [Team Member Onboarding Checklist](template-onboarding-checklist.md) - Comprehensive onboarding guide for new team members across all roles
+- [Work Handoff Checklist](template-handoff-checklist.md) - Ensure smooth transitions when work is handed off between team members or project phases
+- [Project Role Assignment Template](template-role-assignment.md) - Clearly define and assign project roles with accountability and decision rights
+
 ## Getting Started
 
 Whether you're a new team member onboarding to OctoAcme, a project manager looking to refresh your understanding of our processes, or a contributor seeking specific templates and best practices, these documents provide the foundation you need. Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our principles and lifecycle, then dive into specific process areas based on your role and current needs. Each document includes practical templates, checklists, and actionable guidance designed to be adapted to your specific project context.
